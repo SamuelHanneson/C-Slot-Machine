@@ -1,3 +1,3 @@
+Current Version = 1.1
 
-The main function of the program. This function allows the user to play a casino game. It prompts the user to enter the number of games they want to play, and then runs a loop to simulate the game for the specified number of times. After each game, it checks if the user wants to continue playing or not. If the user chooses to continue, the loop runs again with the new number of games. If the user chooses to stop playing, the function displays the total number of wins and losses and exits the program. return 0 indicating successful execution of the program.
- 
+The main function of this program is to let the user play a small slot machine game, it will prompt the user to enter how many games they would like to play, run that number of games and then ask if the user would like to continue playing, the program runs until the user enters N to the prompt asking if they wish to continue playing, prints a final record and closes the terminal window.
