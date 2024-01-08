@@ -1,1 +1,11 @@
-V1 - could only run a maximum of 2 loops before terminating the program, program fails to print goodbye message.
+Version 1.1 - Fixed bugs:
+  - Program now runs until it recieves a N/n input on the would you like to continue prompt
+  - Tracks wins/loss record
+  - Prints final record at the end but no goodbye message
+  - 
+  Need to fix still:
+  - Final goodbye message
+  - Crashes program if Y/N not input
+  - Implement error messages
+
+V1 - could only run a maximum of 2 loops before terminating the program, program fails to print goodbye message
